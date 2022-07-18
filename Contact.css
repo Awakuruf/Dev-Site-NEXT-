@@ -1,3 +1,7 @@
+ .u-section-1 {
+  background-image: none;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 679px;
 }
@@ -21,7 +25,7 @@
   height: 127px;
   background-image: url("images/cgecsmalllogo.png");
   background-position: 50% 50%;
-  margin: 31px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-text-1 {
@@ -61,15 +65,9 @@
 }
 
 .u-section-1 .u-image-2 {
-  width: 406px;
-  height: 123px;
-  margin: 8px -1px 0 0;
-}
-
-.u-section-1 .u-text-5 {
-  font-size: 1.875rem;
-  font-weight: 700;
-  margin: -80px -11px 0 0;
+  height: 125px;
+  margin-top: 8px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -125,12 +123,12 @@
   background-image: none;
 }
 
-.u-section-1 .u-text-6 {
+.u-section-1 .u-text-5 {
   margin: -398px auto 0 77px;
 }
 
-.u-section-1 .u-text-7 {
-  margin: 71px auto 0 77px;
+.u-section-1 .u-text-6 {
+  margin: 71px auto 285px 77px;
 }
 
 @media (max-width: 1199px) {
@@ -159,14 +157,7 @@
   }
 
   .u-section-1 .u-image-2 {
-    width: 332px;
-    height: 100px;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-5 {
-    margin-top: -57px;
-    margin-right: 0;
+    height: 103px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -197,12 +188,7 @@
   }
 
   .u-section-1 .u-image-2 {
-    width: 251px;
-    height: 76px;
-  }
-
-  .u-section-1 .u-text-5 {
-    margin-top: -33px;
+    height: 79px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -215,6 +201,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-image-2 {
+    height: 162px;
+  }
+
   .u-section-1 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
@@ -255,15 +245,8 @@
   }
 
   .u-section-1 .u-image-2 {
-    height: 110px;
+    height: 102px;
     margin-top: 14px;
-  }
-
-  .u-section-1 .u-text-5 {
-    width: auto;
-    margin-top: -103px;
-    margin-right: -21px;
-    margin-left: 21px;
   }
 
   .u-section-1 .u-form-1 {

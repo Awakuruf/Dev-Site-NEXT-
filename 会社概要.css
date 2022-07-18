@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/default-image.jpg");
+  background-image: none;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -157,10 +157,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-text-1 {
     margin-right: 371px;
   }
