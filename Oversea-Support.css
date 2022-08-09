@@ -5136,7 +5136,7 @@
 }
 
 .u-section-17 .u-image-1 {
-  background-image: url("images/80449e8b2f43d007fe0af9b6073bea80a583c5a376a008b213267a3907c721393d3abaaa15ba558a440bba4d5c00fa3bbbd36765848e0252b005e8_1280.jpg");
+  background-image: url("images/Together1.jpg");
   min-height: 388px;
   background-position: 50% 50%;
 }
@@ -5443,7 +5443,7 @@
 
 @media (max-width: 575px) {
   .u-section-18 .u-layout-cell-1 {
-    min-height: 612px;
+    min-height: 611px;
   }
 
   .u-section-18 .u-text-1 {
@@ -5465,5 +5465,9 @@
     margin-top: 20px;
     margin-right: 0;
     margin-bottom: -10px;
+  }
+
+  .u-section-18 .u-image-1 {
+    min-height: 389px;
   }
 }

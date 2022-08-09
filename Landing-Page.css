@@ -5,13 +5,11 @@
 
 .u-section-1 .u-sheet-1 {
   min-height: 570px;
-  margin-bottom: 0;
 }
 
 .u-section-1 .u-group-1 {
   width: 956px;
   min-height: 227px;
-  height: auto;
   margin: 126px auto 60px 67px;
 }
 
@@ -42,7 +40,6 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
-    height: auto;
   }
 
   .u-section-1 .u-text-1 {
@@ -98,7 +95,6 @@
 
 .u-section-2 .u-sheet-1 {
   min-height: 437px;
-  margin-bottom: 0;
 }
 
 .u-section-2 .u-gallery-1 {
@@ -238,7 +234,6 @@
   width: 512px;
   box-shadow: 0 0 40px 0 rgba(0,0,0,0.4);
   min-height: 382px;
-  height: auto;
   margin: 0 auto;
 }
 
@@ -303,7 +298,6 @@
 
   .u-section-3 .u-group-1 {
     width: 422px;
-    height: auto;
   }
 
   .u-section-3 .u-form-1 {
