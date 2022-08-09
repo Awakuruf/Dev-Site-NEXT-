@@ -90,10 +90,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 714px;
-  }
-
   .u-section-1 .u-shape-1 {
     width: 602px;
     height: 564px;
@@ -134,10 +130,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 1080px;
-  }
-
   .u-section-1 .u-shape-1 {
     width: 688px;
     margin-top: 55px;
@@ -190,7 +182,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2170px;
+    min-height: 2043px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -244,7 +236,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1730px;
+    min-height: 1364px;
   }
 
   .u-section-1 .u-shape-1 {
@@ -325,7 +317,7 @@
 .u-section-2 .u-image-1 {
   width: 220px;
   height: 220px;
-  background-image: url("images/fgfg.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 11px auto 0;
 }
@@ -355,7 +347,7 @@
 .u-section-2 .u-image-2 {
   width: 220px;
   height: 220px;
-  background-image: url("images/friendly-smiling-woman-looking-pleased-front_176420-20779.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 11px auto 0;
 }
@@ -381,7 +373,7 @@
 .u-section-2 .u-image-3 {
   width: 220px;
   height: 220px;
-  background-image: url("images/ttrrt.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 11px auto 0;
 }
@@ -407,7 +399,7 @@
 .u-section-2 .u-image-4 {
   width: 220px;
   height: 220px;
-  background-image: url("images/dssd.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 11px auto 0;
 }
@@ -542,7 +534,7 @@
 .u-section-3 .u-image-1 {
   width: 172px;
   height: 172px;
-  background-image: url("images/fgfg.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 11px auto 0 1px;
 }
@@ -580,7 +572,7 @@
 .u-section-3 .u-image-2 {
   width: 172px;
   height: 172px;
-  background-image: url("images/friendly-smiling-woman-looking-pleased-front_176420-20779.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 11px auto 0 1px;
 }
@@ -618,7 +610,7 @@
 .u-section-3 .u-image-3 {
   width: 172px;
   height: 172px;
-  background-image: url("images/ttrrt.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 11px auto 0 1px;
 }
@@ -883,7 +875,7 @@
 .u-section-4 .u-image-1 {
   width: 93px;
   height: 93px;
-  background-image: url("images/w.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -925,7 +917,7 @@
 .u-section-4 .u-image-2 {
   width: 93px;
   height: 93px;
-  background-image: url("images/ds.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -963,7 +955,7 @@
 .u-section-4 .u-image-3 {
   width: 93px;
   height: 93px;
-  background-image: url("images/hgghgh.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto;
 }
@@ -1073,7 +1065,7 @@
 .u-section-5 .u-image-1 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-photo-4576085.jpeg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
@@ -1097,7 +1089,7 @@
 .u-section-5 .u-image-2 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-photo-5141074.jpeg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
@@ -1121,7 +1113,7 @@
 .u-section-5 .u-image-3 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-photo-9821204.jpeg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
@@ -1145,7 +1137,7 @@
 .u-section-5 .u-image-4 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-photo-2989724.jpeg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
@@ -1169,8 +1161,8 @@
 .u-section-5 .u-image-5 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-photo-9787579.jpeg");
-  background-position: 50% 26.53%;
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
+  background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
 
@@ -1193,7 +1185,7 @@
 .u-section-5 .u-image-6 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-photo-9867161.jpeg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
   margin: 0 auto 0 0;
 }
