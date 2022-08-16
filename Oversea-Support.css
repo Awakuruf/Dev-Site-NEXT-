@@ -1981,29 +1981,29 @@
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 1037px;
+  min-height: 100vh;
 }
 
 .u-section-7 .u-shape-1 {
   width: 1088px;
-  height: 918px;
-  margin: 80px 0 0 auto;
+  height: 828px;
+  margin: 101px 0 0 auto;
 }
 
 .u-section-7 .u-image-1 {
-  width: 690px;
-  height: 691px;
+  width: 646px;
+  height: 647px;
   object-position: 0% 50%;
   background-position: 8.07% 50%;
   background-image: url("images/Photo2022-07-1425200PM.jpg");
-  margin: -862px 115px 0 auto;
+  margin: -769px 159px 0 auto;
 }
 
 .u-section-7 .u-shape-2 {
-  width: 227px;
-  height: 228px;
+  width: 195px;
+  height: 196px;
   background-image: linear-gradient(#77aad9, #478ac9);
-  margin: -35px 78px 0 auto;
+  margin: -59px 113px 0 auto;
 }
 
 .u-section-7 .u-group-1 {
@@ -2011,7 +2011,7 @@
   width: 541px;
   min-height: 311px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.15);
-  margin: -438px auto 60px 0;
+  margin: -382px auto 60px 0;
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -2023,7 +2023,7 @@
   font-weight: 700;
   text-transform: uppercase;
   font-size: 1.25rem;
-  margin: 29px auto 0 0;
+  margin: 15px 224px 0 0;
 }
 
 .u-section-7 .u-text-2 {
@@ -2072,7 +2072,6 @@
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
     margin-top: -317px;
-    margin-bottom: 50px;
     margin-left: 22px;
   }
 }
@@ -2094,14 +2093,14 @@
     width: 509px;
     height: 509px;
     margin-top: -753px;
-    margin-right: 30px;
+    margin-right: 74px;
   }
 
   .u-section-7 .u-group-1 {
     width: 385px;
     min-height: 252px;
     margin-top: -228px;
-    margin-bottom: 52px;
+    margin-bottom: 58px;
     margin-left: 30px;
   }
 
@@ -2124,7 +2123,7 @@
   .u-section-7 .u-shape-1 {
     height: 535px;
     width: 519px;
-    margin-top: 80px;
+    margin-top: 101px;
     margin-right: 0;
     margin-left: auto;
   }
@@ -2159,7 +2158,7 @@
 
 @media (max-width: 575px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 731px;
+    min-height: 100vh;
   }
 
   .u-section-7 .u-shape-1 {
@@ -2187,6 +2186,7 @@
   .u-section-7 .u-group-1 {
     min-height: 228px;
     margin-top: -660px;
+    margin-bottom: 60px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -2194,6 +2194,7 @@
 
   .u-section-7 .u-text-1 {
     font-size: 1.125rem;
+    margin-right: 24px;
   }
 
   .u-section-7 .u-text-2 {
@@ -2489,18 +2490,18 @@
 }
 
 .u-section-9 .u-sheet-1 {
-  min-height: 1038px;
+  min-height: 100vh;
 }
 
 .u-section-9 .u-shape-1 {
-  height: 947px;
-  margin-top: 76px;
-  margin-bottom: 0;
+  height: 884px;
+  width: 1101px;
+  margin: 117px auto 0 0;
 }
 
 .u-section-9 .u-layout-wrap-1 {
   width: 915px;
-  margin: -661px auto 0;
+  margin: -660px auto 0;
 }
 
 .u-section-9 .u-image-1 {
@@ -2619,7 +2620,8 @@
   width: 541px;
   min-height: 280px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.15);
-  margin: -913px auto 60px 39px;
+  height: auto;
+  margin: -904px auto 60px 46px;
 }
 
 .u-section-9 .u-container-layout-7 {
@@ -2648,6 +2650,7 @@
 
   .u-section-9 .u-shape-1 {
     height: 858px;
+    width: 940px;
   }
 
   .u-section-9 .u-layout-wrap-1 {
@@ -2664,6 +2667,7 @@
     --animation-custom_in-scale: 1;
     margin-top: -938px;
     margin-left: 0;
+    height: auto;
   }
 }
 
@@ -2674,7 +2678,8 @@
 
   .u-section-9 .u-shape-1 {
     height: 823px;
-    margin-top: -542px;
+    width: 720px;
+    margin-top: -51px;
   }
 
   .u-section-9 .u-layout-wrap-1 {
@@ -2791,6 +2796,7 @@
   .u-section-9 .u-shape-1 {
     height: 583px;
     margin-top: 304px;
+    width: 540px;
   }
 
   .u-section-9 .u-layout-wrap-1 {
@@ -2880,7 +2886,8 @@
 
   .u-section-9 .u-shape-1 {
     height: 451px;
-    margin-top: -3620px;
+    width: 340px;
+    margin-top: -6408px;
   }
 
   .u-section-9 .u-layout-wrap-1 {
@@ -4178,7 +4185,7 @@
   }
 } .u-section-14 {
   background-image: none;
-  min-height: 1239px;
+  min-height: 1232px;
 }
 
 .u-section-14 .u-shape-1 {
@@ -4188,24 +4195,23 @@
 }
 
 .u-section-14 .u-image-1 {
-  width: 510px;
-  height: 510px;
+  width: 415px;
+  height: 415px;
   background-image: url("images/guillaume-jaillet-EIWCd0414xQ-unsplash.jpg");
   background-position: 45.81% 50%;
-  margin: -819px calc(((100% - 1140px) / 2) + -38px) 0 auto;
+  margin: -748px calc(((100% - 1140px) / 2)) 0 auto;
 }
 
 .u-section-14 .u-group-1 {
-  width: 686px;
-  min-height: 201px;
+  width: 698px;
+  min-height: 235px;
   background-image: none;
-  margin: -420px auto 0 calc(((100% - 1140px) / 2) + -31px);
+  height: auto;
+  margin: -396px auto 0 calc(((100% - 1140px) / 2));
 }
 
 .u-section-14 .u-container-layout-1 {
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0;
+  padding: 0;
 }
 
 .u-section-14 .u-text-1 {
@@ -4220,21 +4226,22 @@
   line-height: 1;
   font-family: "Archivo Black";
   font-weight: 700;
-  margin: 22px 10px 0 0;
+  margin: 22px 0 0;
 }
 
 .u-section-14 .u-image-2 {
   width: 819px;
   height: 614px;
   object-position: 50% 53.99%;
-  margin: 101px auto 0 calc(((100% - 1140px) / 2) + 31px);
+  margin: 45px auto 0 calc(((100% - 1140px) / 2) + 34px);
 }
 
 .u-section-14 .u-group-2 {
   min-height: 310px;
   width: 483px;
   background-image: none;
-  margin: -165px calc(((100% - 1140px) / 2) + 87px) 0 auto;
+  height: auto;
+  margin: -143px calc(((100% - 1140px) / 2) + 87px) 0 auto;
 }
 
 .u-section-14 .u-container-layout-2 {
@@ -4266,14 +4273,10 @@
 .u-section-14 .u-shape-2 {
   width: 250px;
   height: 250px;
-  margin: -265px auto 60px calc(((100% - 1140px) / 2) + 47px);
+  margin: -280px auto 60px calc(((100% - 1140px) / 2) + 34px);
 }
 
 @media (max-width: 1199px) {
-   .u-section-14 {
-    min-height: 1232px;
-  }
-
   .u-section-14 .u-shape-1 {
     margin-right: initial;
     margin-left: initial;
@@ -4289,7 +4292,8 @@
 
   .u-section-14 .u-group-1 {
     margin-top: -265px;
-    margin-left: calc(((100% - 940px) / 2) + -31px);
+    margin-left: calc(((100% - 940px) / 2));
+    height: auto;
   }
 
   .u-section-14 .u-container-layout-1 {
@@ -4309,6 +4313,7 @@
   .u-section-14 .u-group-2 {
     margin-top: -114px;
     margin-right: calc(((100% - 940px) / 2));
+    height: auto;
   }
 
   .u-section-14 .u-shape-2 {
@@ -4428,20 +4433,21 @@
   .u-section-14 .u-image-1 {
     width: 330px;
     height: 330px;
-    margin-top: -678px;
+    margin-top: -685px;
     margin-right: auto;
+    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-section-14 .u-group-1 {
-    width: 340px;
-    min-height: 135px;
-    margin-top: -508px;
-    margin-right: auto;
+    width: 351px;
+    min-height: 158px;
+    margin-top: -501px;
+    margin-right: calc(((100% - 340px) / 2) + -11px);
   }
 
   .u-section-14 .u-container-layout-1 {
     padding-top: 0;
-    padding-bottom: 30px;
+    padding-bottom: 0;
   }
 
   .u-section-14 .u-text-1 {
@@ -4455,16 +4461,15 @@
   .u-section-14 .u-image-2 {
     width: 340px;
     height: 195px;
-    margin-top: 361px;
-    margin-right: calc(((100% - 340px) / 2));
+    margin-top: 370px;
+    margin-right: auto;
   }
 
   .u-section-14 .u-group-2 {
     min-height: 355px;
     width: 340px;
-    margin-top: 62px;
-    margin-right: calc(((100% - 340px) / 2));
-    margin-left: calc(((100% - 340px) / 2));
+    margin-top: 59px;
+    margin-left: auto;
   }
 
   .u-section-14 .u-container-layout-2 {
@@ -4482,10 +4487,9 @@
   }
 
   .u-section-14 .u-shape-2 {
-    width: calc(((100% - 340px) / 2) + 68px);
-    height: 118px;
-    margin-top: -414px;
-    margin-right: 0;
+    width: 83px;
+    height: 83px;
+    margin-right: calc(((100% - 340px) / 2));
   }
 } .u-section-15 {
   background-image: none;

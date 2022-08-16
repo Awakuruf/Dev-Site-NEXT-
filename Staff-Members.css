@@ -111,7 +111,7 @@
 
 .u-section-1 .u-image-2 {
   min-height: 681px;
-  background-image: url("images/ChiemiJune20172.jpg");
+  background-image: url("images/11f0d441f5587e71fd2f65c0136d44b6f9a7c072e62483494ae9cf07d14990c7dbcc115f9675d6ad2634f2d27ff2f25b6e5222f4338059a3a4c6a9_1280.png");
   background-position: 50% 50%;
 }
 
@@ -123,7 +123,6 @@
   min-height: 255px;
   background-image: none;
   width: 406px;
-  height: auto;
   margin: -255px 0 60px auto;
 }
 
@@ -181,10 +180,6 @@
 
   .u-section-1 .u-image-2 {
     min-height: 745px;
-  }
-
-  .u-section-1 .u-group-4 {
-    height: auto;
   }
 }
 
