@@ -21,13 +21,13 @@ $form = array(
     'required' => 'Field \'お名前\' is required.'
     )
     ),
-    'Email' => array(
+    'EMAIL' => array(
     'order' => 2,
-    'type' => 'tel',
-    'label' => 'Email',
+    'type' => 'email',
+    'label' => 'EMAIL',
     'required' => true,
     'errors' => array(
-    'required' => 'Field \'Email\' is required.'
+    'required' => 'Field \'EMAIL\' is required.'
     )
     ),
     'message' => array(
@@ -37,6 +37,15 @@ $form = array(
     'required' => true,
     'errors' => array(
     'required' => 'Field \'メッセージ\' is required.'
+    )
+    ),
+    'agree' => array(
+    'order' => 4,
+    'type' => 'checkbox',
+    'label' => 'CGEC内容に同意する',
+    'required' => true,
+    'errors' => array(
+    'required' => 'Field \'CGEC内容に同意する\' is required.'
     )
     ),
     )

@@ -15,28 +15,28 @@ $form = array(
     'name' => array(
     'order' => 1,
     'type' => 'string',
-    'label' => 'お名前',
+    'label' => 'Name',
     'required' => true,
     'errors' => array(
-    'required' => 'Field \'お名前\' is required.'
+    'required' => 'Field \'Name\' is required.'
     )
     ),
-    'Email' => array(
+    'phone' => array(
     'order' => 2,
     'type' => 'tel',
-    'label' => 'Email',
+    'label' => 'Phone',
     'required' => true,
     'errors' => array(
-    'required' => 'Field \'Email\' is required.'
+    'required' => 'Field \'Phone\' is required.'
     )
     ),
     'message' => array(
     'order' => 3,
     'type' => 'string',
-    'label' => 'メッセージ',
+    'label' => 'Message',
     'required' => true,
     'errors' => array(
-    'required' => 'Field \'メッセージ\' is required.'
+    'required' => 'Field \'Message\' is required.'
     )
     ),
     )

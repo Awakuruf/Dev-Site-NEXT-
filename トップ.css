@@ -31,7 +31,8 @@
 .u-section-1-1 .u-group-1 {
   width: 947px;
   min-height: 355px;
-  margin: 60px auto;
+  height: auto;
+  margin: 216px auto 60px;
 }
 
 .u-section-1-1 .u-container-layout-1 {
@@ -62,6 +63,7 @@
 
   .u-section-1-1 .u-group-1 {
     width: 926px;
+    height: auto;
   }
 
   .u-section-1-1 .u-text-1 {
@@ -1998,10 +2000,10 @@
 
 .u-section-6 .u-btn-4 {
   letter-spacing: 1px;
-  border-style: none;
   font-weight: 700;
   text-transform: uppercase;
   transition-duration: 0.5s;
+  border-style: solid;
   margin: 40px auto 36px;
 }
 
